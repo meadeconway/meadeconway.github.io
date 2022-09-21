@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>play on Home</title>
+    <link>/tags/play/</link>
+    <description>Recent content in play on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/play/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Company Culture</title>
+      <link>/posts/company-culture/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/company-culture/</guid>
+      <description>Conmpany Culture is a short, 3 people play that can be staged with just three chairs and a table (beyond this the limit is your imagination).
+The play&amp;rsquo;s subject matter focuses on the farce of modern coproate environments.
+Click here to read in PDF</description>
+    </item>
+    
+  </channel>
+</rss>
