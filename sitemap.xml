@@ -6,6 +6,8 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/</loc>
+  </url><url>
     <loc>/pages/htkyl/</loc>
   </url><url>
     <loc>/pages/</loc>
@@ -13,7 +15,5 @@
     <loc>/pages/silentscandal/</loc>
   </url><url>
     <loc>/tags/</loc>
-  </url><url>
-    <loc>/</loc>
   </url>
 </urlset>
